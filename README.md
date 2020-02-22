@@ -50,13 +50,13 @@ Assignment Questions -
 
 1.	What is the highest correlation and at what time lag for…
 
-a.	Wind Speed?  
-b.	Rain Rate? 
+  a.	Wind Speed?  
+  b.	Rain Rate? 
 
 
 2.	What patterns do you see in the monthly averages?
 
-The monthly average wind speeds and rain rates at both sites seem to follow a similar pattern. There a couple exceptions to this. The wind speed peaks up in June-August while the rain rate it low. Then, the rain rate peaks up in October-December while the wind speed is low. You can also see this pattern in the plots with the time windows indicated. Toward the beginning of the year, the time window indicates a lot of times that are both windy and rainy, then in July it gets to be wind and not rainy, then it becomes not windy or rainy, then it becomes rainy and not windy. These patterns make sense if you think about how the weather patterns tend to be in the pacific northwest over a year. The winter months tend to have high amounts of rain and the summer months have low amounts. Wind seems to pick up at the end of winter and continues through spring and summer.  
+The monthly average wind speeds and rain rates at both sites seem to follow a similar pattern. There a couple exceptions to       this. The wind speed peaks up in June-August while the rain rate it low. Then, the rain rate peaks up in October-December while the wind speed is low. You can also see this pattern in the plots with the time windows indicated. Toward the beginning of the year, the time window indicates a lot of times that are both windy and rainy, then in July it gets to be wind and not rainy, then it becomes not windy or rainy, then it becomes rainy and not windy. These patterns make sense if you think about how the weather patterns tend to be in the pacific northwest over a year. The winter months tend to have high amounts of rain and the summer months have low amounts. Wind seems to pick up at the end of winter and continues through spring and summer.  
 
 
 3.	Which month had the highest rain rate? Which month had the lowest rain rate?
