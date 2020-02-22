@@ -24,11 +24,11 @@ The final section was to plot the monthly average wind speeds and rain rates at 
 
 Figure 1: Plot of Wind Speed and Rain Rate with Indicated Time Windows: Oregon Shelf Surface Mooring
 
-![alt text](https://github.com/shamgold/Project2/blob/master/Picture1.png "Shelf Plot") 
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture1.png "Shelf Plot") 
 
 Figure 2: Plot of Wind Speed and Rain Rate with Indicated Time Windows: Oregon Offshore Surface Mooring
 
-![alt text](https://github.com/shamgold/Project2/blob/master/Picture2.png "Offshore Plot")  
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture2.png "Offshore Plot")  
 
 Figure 3: Plot of Cross Correlation Function for Wind Speed at Each Site 
 
@@ -38,11 +38,11 @@ Figure 4: Plot of Cross Correlation Function for Rain Rate at Each Site
 
 Figure 5: Monthly Wind Speed and Rain Rate Averages: Oregon Shelf Surface Mooring
 
-![alt text](https://github.com/shamgold/Project2/blob/master/Picture3.png "Shelf Average Plot") 
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture3.png "Shelf Average Plot") 
 
 Figure 6: Monthly Wind Speed and Rain Rate Averages: Oregon Offshore Surface Mooring
 
-![alt text](https://github.com/shamgold/Project2/blob/master/Picture4.png "Offshore Average Plot") 
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture4.png "Offshore Average Plot") 
 
 # Analysis/Conclusions:
 
