@@ -52,8 +52,8 @@ Assignment Questions -
 
 1.	What is the highest correlation and at what time lag for…
 
-  a.	Wind Speed?  
-  b.	Rain Rate? 
+  a.	Wind Speed? Max correlation is 0.289 at 672 lag.
+  b.	Rain Rate? Max correlation in 0.238 at 43 lag.
 
 
 2.	What patterns do you see in the monthly averages?
