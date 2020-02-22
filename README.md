@@ -1,9 +1,6 @@
 # Project-2
 
-Shamber Goldstein
-February 21, 2020
-B ME 450
-Project 2: Meteorology Package 
+Shamber Goldstein | February 21, 2020 | B ME 450 | Project 2: Meteorology Package 
 
 Introduction
 
