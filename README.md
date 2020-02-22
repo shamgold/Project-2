@@ -32,9 +32,11 @@ Figure 2: Plot of Wind Speed and Rain Rate with Indicated Time Windows: Oregon O
 
 Figure 3: Plot of Cross Correlation Function for Wind Speed at Each Site 
 
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture5.png "Wind Speed Cross Correlation")  
 
 Figure 4: Plot of Cross Correlation Function for Rain Rate at Each Site 
 
+![alt text](https://github.com/shamgold/Project-2/blob/master/Picture6.png "Rain Rate Cross Correlation")  
 
 Figure 5: Monthly Wind Speed and Rain Rate Averages: Oregon Shelf Surface Mooring
 
