@@ -45,17 +45,25 @@ Analysis/Conclusions
 Assignment Questions:
 
 1.	What is the highest correlation and at what time lag for…
+
 a.	Wind Speed?  
 b.	Rain Rate? 
 
+
 2.	What patterns do you see in the monthly averages?
+
 The monthly average wind speeds and rain rates at both sites seem to follow a similar pattern. There a couple exceptions to this. The wind speed peaks up in June-August while the rain rate it low. Then, the rain rate peaks up in October-December while the wind speed is low. You can also see this pattern in the plots with the time windows indicated. Toward the beginning of the year, the time window indicates a lot of times that are both windy and rainy, then in July it gets to be wind and not rainy, then it becomes not windy or rainy, then it becomes rainy and not windy. These patterns make sense if you think about how the weather patterns tend to be in the pacific northwest over a year. The winter months tend to have high amounts of rain and the summer months have low amounts. Wind seems to pick up at the end of winter and continues through spring and summer.  
 
+
 3.	Which month had the highest rain rate? Which month had the lowest rain rate?
+
 For the shelf site, the highest rain rate was in February and the lowest was in August. It makes sense for this to be the case because there is typically more rainfall in the winter than the summer. For the offshore site, the highest rain rate appeared to also be in February and the lowest was in October.
 
+
 4.	Which month had the highest wind speed? Which month had the lowest wind speed?
+
 For both sites, the highest average wind speed was in March and the lowest was in October. This makes sense because the weather tends to be windier in Spring and Summer than in Fall and Winter. 
+
 
 This project resulted in three different sets of graphs that demonstrated the relationships between wind speed, rain rate, time of year, and location. These showed that the site location, on the shelf or offshore, did not make a big difference in rain rate or wind speed, but there was a slightly greater wind speed and lower rainfall rate offshore. The results also showed that both rain rate and windspeed are highest at the end of winter/beginning of spring and the lowest at the end of summer. Finally, the plots showed that rain rate and wind speed follow similar patterns during winter and spring, but tend to follow different patterns in Summer and Fall.
 
